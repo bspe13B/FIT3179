@@ -1,0 +1,106 @@
+[
+ {
+   "FIELD1": "Month",
+   "Month": "",
+   "Year": 2016,
+   "FIELD4": 2017,
+   "FIELD5": 2018,
+   "FIELD6": "count"
+ },
+ {
+   "FIELD1": "1",
+   "Month": "Jan",
+   "Year": 791200,
+   "FIELD4": null,
+   "FIELD5": 947834.926,
+   "FIELD6": ""
+ },
+ {
+   "FIELD1": "2",
+   "Month": "Feb",
+   "Year": 742379.2135,
+   "FIELD4": 979943.9812,
+   "FIELD5": 988639.676,
+   "FIELD6": "2552"
+ },
+ {
+   "FIELD1": "3",
+   "Month": "Mar",
+   "Year": null,
+   "FIELD4": 1038974.12,
+   "FIELD5": 1080313.629,
+   "FIELD6": ""
+ },
+ {
+   "FIELD1": "4",
+   "Month": "Apr",
+   "Year": 904042.5939,
+   "FIELD4": 962035.3465,
+   "FIELD5": 934084.1382,
+   "FIELD6": "4417"
+ },
+ {
+   "FIELD1": "5",
+   "Month": "May",
+   "Year": 950964.3557,
+   "FIELD4": 1052220.692,
+   "FIELD5": 1060612.738,
+   "FIELD6": "5719"
+ },
+ {
+   "FIELD1": "6",
+   "Month": "Jun",
+   "Year": 949654.6839,
+   "FIELD4": 1075446.087,
+   "FIELD5": 981433.4904,
+   "FIELD6": "4681"
+ },
+ {
+   "FIELD1": "7",
+   "Month": "Jul",
+   "Year": 876816.0975,
+   "FIELD4": 877394.6766,
+   "FIELD5": 863357.9658,
+   "FIELD6": "3772"
+ },
+ {
+   "FIELD1": "8",
+   "Month": "Aug",
+   "Year": 964996.5655,
+   "FIELD4": 1102766.142,
+   "FIELD5": 984918.9605,
+   "FIELD6": "4153"
+ },
+ {
+   "FIELD1": "9",
+   "Month": "Sep",
+   "Year": 986699.2511,
+   "FIELD4": 1056204.394,
+   "FIELD5": 1061225.795,
+   "FIELD6": "5516"
+ },
+ {
+   "FIELD1": "10",
+   "Month": "Nov",
+   "Year": 973415.0766,
+   "FIELD4": 1065097.712,
+   "FIELD5": 902122.1881,
+   "FIELD6": "4245"
+ },
+ {
+   "FIELD1": "11",
+   "Month": "Oct",
+   "Year": 998917.1408,
+   "FIELD4": 1046779.706,
+   "FIELD5": null,
+   "FIELD6": ""
+ },
+ {
+   "FIELD1": "12",
+   "Month": "Dec",
+   "Year": 1029927.016,
+   "FIELD4": 969171.2408,
+   "FIELD5": null,
+   "FIELD6": " "
+ }
+]
