@@ -1,0 +1,857 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9631,-37.8136 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "city":"Melbourne",
+    "population":4529500
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2834,-38.0996 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "city":"Cranbourne",
+    "population":460491
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.35,-38.15 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "city":"Geelong",
+    "population":184182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.215,-37.981 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "city":"Dandenong",
+    "population":29906
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4644,-38.1892 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "city":"Leopold",
+    "population":12814
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8475,-37.5608 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "city":"Ballarat",
+    "population":98543
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2667,-36.75 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "city":"Bendigo",
+    "population":95587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5833,-37.6833 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "city":"Melton",
+    "population":54455
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4878,-38.0712 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "city":"Pakenham",
+    "population":46421
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.135,-38.158 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "city":"Frankston",
+    "population":36097
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7139,-37.5811 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "city":"Sunbury",
+    "population":36084
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1583,-34.1889 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "city":"Mildura",
+    "population":32738
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4,-36.3833 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "city":"Shepparton",
+    "population":31197
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4833,-38.3833 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "city":"Warrnambool",
+    "population":29661
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.5403,-38.1958 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "city":"Traralgon",
+    "population":24933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.092,-38.189 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "city":"Mount Eliza",
+    "population":17888
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8881,-36.1214 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "city":"Wodonga",
+    "population":18948
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3125,-36.3583 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "city":"Wangaratta",
+    "population":17377
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4167,-38.0167 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "city":"Lara",
+    "population":16355
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.9333,-38.15 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "city":"Warragul",
+    "population":15757
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5167,-38.25 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "city":"Barwon Heads",
+    "population":14165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2,-36.7167 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "city":"Horsham",
+    "population":14543
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.75,-36.1333 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "city":"Echuca",
+    "population":14043
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4,-38.2333 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "city":"Morwell",
+    "population":13771
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3167,-38.3333 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "city":"Torquay",
+    "population":13258
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.0667,-38.1 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "city":"Sale",
+    "population":13673
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.85,-38.1333 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "city":"Drouin",
+    "population":12349
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9833,-37.4167 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "city":"Wallan",
+    "population":11074
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.177,-38.226 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "city":"Somerville",
+    "population":11336
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.55,-35.3333 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "city":"Swan Hill",
+    "population":9864
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.385,-37.783 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "city":"Mount Evelyn",
+    "population":9702
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.9817,-36.5519 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "city":"Benalla",
+    "population":10330
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.233,-36.7833 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "city":"Kangaroo Flat",
+    "population":10394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.0167,-37.7333 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "city":"Hamilton",
+    "population":9974
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.6,-38.3333 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "city":"Portland",
+    "population":9712
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5847,-38.3403 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "city":"Colac",
+    "population":9048
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.2678,-38.1722 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "city":"Moe",
+    "population":8778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5889,-37.49 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "city":"Gisborne",
+    "population":8999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.9167,-37.2833 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "city":"Ararat",
+    "population":8297
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.5667,-38.15 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "city":"Clifton Springs",
+    "population":7519
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6167,-37.8333 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "city":"Bairnsdale",
+    "population":7580
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0333,-37.5833 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "city":"Wollert",
+    "population":9060
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.838,-38.377 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "city":"Rye",
+    "population":8416
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.35,-36.3833 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "city":"Mooroopna",
+    "population":7942
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.735,-37.05 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "city":"Maryborough",
+    "population":7921
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.437,-37.6547 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "city":"Darley",
+    "population":8372
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95,-37.2833 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "city":"Kilmore",
+    "population":7958
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146,-36.0167 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "city":"Yarrawonga",
+    "population":7930
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05,-36.3167 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "city":"Kyabram",
+    "population":7331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.5139,-37.6561 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "city":"Healesville",
+    "population":7461
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.314,-37.982 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "city":"Narre Warren North",
+    "population":7674
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.455,-37.247 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "city":"Kyneton",
+    "population":6951
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4389,-37.675 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "city":"Bacchus Marsh",
+    "population":6394
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2172,-37.0636 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "city":"Castlemaine",
+    "population":6757
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.13,-37.03 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "city":"Seymour",
+    "population":6327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.301,-37.93 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "city":"Lysterfield",
+    "population":6663
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.9833,-37.8667 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "city":"Lakes Entrance",
+    "population":6071
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7667,-37.05 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "city":"Stawell",
+    "population":5736
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.965,-38.338 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "city":"Dromana",
+    "population":5803
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.95,-38.4833 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "city":"Leongatha",
+    "population":5654
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.65,-35.9667 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "city":"Cobram",
+    "population":6014
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.983,-37.95 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "city":"Maffra",
+    "population":5280
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.526,-37.363 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "city":"Woodend",
+    "population":5806
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7278,-38.6334 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "city":"Inverloch",
+    "population":5437
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.114,-37.5139 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "city":"Whittlesea",
+    "population":5611
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.437,-37.9331 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "city":"Emerald",
+    "population":5778
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1667,-34.2333 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "city":"Irymple",
+    "population":5325
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1881,-34.3075 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "city":"Red Cliffs",
+    "population":5060
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1667,-38.05 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "city":"Bannockburn",
+    "population":5283
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.5917,-38.6056 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "city":"Wonthaggi",
+    "population":4965
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.317,-35.0667 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "city":"Ouyen",
+    "population":1191
+    }
+  }
+]
+}
