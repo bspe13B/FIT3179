@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Melbourne property prices by year and month",
-  "width": "800",
+  "width": "500",
   "height": 500,
   "data": {"url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/MonthVSSALEPRICE_count.json"},
   "mark": "rect",
@@ -9,7 +9,7 @@
     "y": {"field": "year", "type": "nominal", "title": "Calendar year"},
     "x": {"field": "month", "type": "nominal", "title": "Month"},
     "color": {"field": "price", "type": "quantitative", "title": "Average Sale Price",
-    "scale": {"domain": [700000, 1102766], "scheme": "oranges"}},
+    "scale": {"domain": [700000, 1102766], "scheme": "blues"}},
     "tooltip": [
           {
             "field": "price",
