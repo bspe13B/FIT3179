@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Melbourne house prices by Local Government regions",
-  "width": "container",
+  "width": "500",
   "height": 500,
   "projection": {"type": "equirectangular"},
   "layer": [
