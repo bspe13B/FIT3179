@@ -1,0 +1,122 @@
+[
+ {
+   "SellerG": "@Realty",
+   "avgPrice": 748928.5714,
+   "avgdist": 17.08571429,
+   "count": 21
+ },
+ {
+   "SellerG": "Barry",
+   "avgPrice": 834972.823,
+   "avgdist": 15.03466169,
+   "count": 4818
+ },
+ {
+   "SellerG": "Bayside",
+   "avgPrice": 1020595.238,
+   "avgdist": 17.06190476,
+   "count": 21
+ },
+ {
+   "SellerG": "Buckingham",
+   "avgPrice": 803305.283,
+   "avgdist": 15.74,
+   "count": 265
+ },
+ {
+   "SellerG": "Century",
+   "avgPrice": 799366.6667,
+   "avgdist": 17.77666667,
+   "count": 30
+ },
+ {
+   "SellerG": "Eview",
+   "avgPrice": 757954.8696,
+   "avgdist": 19.1468599,
+   "count": 207
+ },
+ {
+   "SellerG": "Flannagan",
+   "avgPrice": 824981.4815,
+   "avgdist": 15.8,
+   "count": 27
+ },
+ {
+   "SellerG": "FN",
+   "avgPrice": 682828.8,
+   "avgdist": 19.168,
+   "count": 125
+ },
+ {
+   "SellerG": "HAR",
+   "avgPrice": 661714.1401,
+   "avgdist": 18.30397924,
+   "count": 578
+ },
+ {
+   "SellerG": "Harcourts",
+   "avgPrice": 860943.1568,
+   "avgdist": 18.10866228,
+   "count": 912
+ },
+ {
+   "SellerG": "Hodges",
+   "avgPrice": 1150128.244,
+   "avgdist": 15.18092567,
+   "count": 713
+ },
+ {
+   "SellerG": "Jason",
+   "avgPrice": 641748,
+   "avgdist": 15.9136,
+   "count": 125
+ },
+ {
+   "SellerG": "Morrison",
+   "avgPrice": 907440.9243,
+   "avgdist": 17.39322709,
+   "count": 251
+ },
+ {
+   "SellerG": "OBrien",
+   "avgPrice": 989857.3667,
+   "avgdist": 18.32,
+   "count": 30
+ },
+ {
+   "SellerG": "Philip",
+   "avgPrice": 984661.6222,
+   "avgdist": 17.79851852,
+   "count": 270
+ },
+ {
+   "SellerG": "Prof.",
+   "avgPrice": 682613.8941,
+   "avgdist": 17.25176471,
+   "count": 170
+ },
+ {
+   "SellerG": "Professionals",
+   "avgPrice": 554941.1765,
+   "avgdist": 19.37647059,
+   "count": 34
+ },
+ {
+   "SellerG": "Ray",
+   "avgPrice": 808559.7205,
+   "avgdist": 16.94377224,
+   "count": 3653
+ },
+ {
+   "SellerG": "RW",
+   "avgPrice": 766625.6529,
+   "avgdist": 15.45,
+   "count": 484
+ },
+ {
+   "SellerG": "Stockdale",
+   "avgPrice": 705358.2136,
+   "avgdist": 15.74083694,
+   "count": 693
+ }
+]
