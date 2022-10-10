@@ -1,5 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Importance of real estate agent",
+  "width": "500",
+  "height": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/count_agent_price.json"
   },
