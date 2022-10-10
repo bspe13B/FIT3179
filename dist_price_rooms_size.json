@@ -1,0 +1,1244 @@
+[
+ {
+   "Distance": 0,
+   "avgPrice": "671166.666666667",
+   "avgrooms": "2",
+   "avglandsize": "14.8333333333333"
+ },
+ {
+   "Distance": 0.7,
+   "avgPrice": "579250",
+   "avgrooms": "1.75",
+   "avglandsize": "2545.5"
+ },
+ {
+   "Distance": 1.2,
+   "avgPrice": "647287.878787879",
+   "avgrooms": "2.15151515151515",
+   "avglandsize": "559.333333333333"
+ },
+ {
+   "Distance": 1.3,
+   "avgPrice": "1261000",
+   "avgrooms": "2",
+   "avglandsize": "538.2"
+ },
+ {
+   "Distance": 1.5,
+   "avgPrice": "1492941.17647059",
+   "avgrooms": "2",
+   "avglandsize": "119.588235294118"
+ },
+ {
+   "Distance": 1.6,
+   "avgPrice": "1100381.57894737",
+   "avgrooms": "2.26315789473684",
+   "avglandsize": "712.885964912281"
+ },
+ {
+   "Distance": 1.8,
+   "avgPrice": "1063181.64556962",
+   "avgrooms": "2.46835443037975",
+   "avglandsize": "448.645569620253"
+ },
+ {
+   "Distance": 1.9,
+   "avgPrice": "1347535.21126761",
+   "avgrooms": "2.54929577464789",
+   "avglandsize": "268.774647887324"
+ },
+ {
+   "Distance": 2,
+   "avgPrice": "1050558.82352941",
+   "avgrooms": "2.11764705882353",
+   "avglandsize": "364.294117647059"
+ },
+ {
+   "Distance": 2.1,
+   "avgPrice": "1333696.62921348",
+   "avgrooms": "2.53932584269663",
+   "avglandsize": "5331.55056179775"
+ },
+ {
+   "Distance": 2.3,
+   "avgPrice": "859467.072727273",
+   "avgrooms": "2.12727272727273",
+   "avglandsize": "216.436363636364"
+ },
+ {
+   "Distance": 2.4,
+   "avgPrice": "1183557.89473684",
+   "avgrooms": "2.46315789473684",
+   "avglandsize": "807.789473684211"
+ },
+ {
+   "Distance": 2.5,
+   "avgPrice": "1034715.38461538",
+   "avgrooms": "2.29230769230769",
+   "avglandsize": "198.861538461538"
+ },
+ {
+   "Distance": 2.6,
+   "avgPrice": "1116286.59574468",
+   "avgrooms": "2.39574468085106",
+   "avglandsize": "425.56170212766"
+ },
+ {
+   "Distance": 2.7,
+   "avgPrice": "1327258.62068966",
+   "avgrooms": "2.43103448275862",
+   "avglandsize": "813"
+ },
+ {
+   "Distance": 2.8,
+   "avgPrice": "622621.951219512",
+   "avgrooms": "1.82926829268293",
+   "avglandsize": "336.90243902439"
+ },
+ {
+   "Distance": 3,
+   "avgPrice": "2076757.35294118",
+   "avgrooms": "3.01470588235294",
+   "avglandsize": "284.882352941176"
+ },
+ {
+   "Distance": 3.1,
+   "avgPrice": "1190214.28571429",
+   "avgrooms": "2.71428571428571",
+   "avglandsize": "204.071428571429"
+ },
+ {
+   "Distance": 3.2,
+   "avgPrice": "1482708.33333333",
+   "avgrooms": "2.63888888888889",
+   "avglandsize": "242.361111111111"
+ },
+ {
+   "Distance": 3.3,
+   "avgPrice": "1233783.17757009",
+   "avgrooms": "2.17289719626168",
+   "avglandsize": "541.836448598131"
+ },
+ {
+   "Distance": 3.4,
+   "avgPrice": "1066982.14285714",
+   "avgrooms": "2.40178571428571",
+   "avglandsize": "325.214285714286"
+ },
+ {
+   "Distance": 3.5,
+   "avgPrice": "1415946.48809524",
+   "avgrooms": "2.625",
+   "avglandsize": "510.845238095238"
+ },
+ {
+   "Distance": 3.6,
+   "avgPrice": "1374644.36619718",
+   "avgrooms": "2.67605633802817",
+   "avglandsize": "459.661971830986"
+ },
+ {
+   "Distance": 3.7,
+   "avgPrice": "1804000",
+   "avgrooms": "3.5",
+   "avglandsize": "298.5"
+ },
+ {
+   "Distance": 3.8,
+   "avgPrice": "1177250",
+   "avgrooms": "2.36440677966102",
+   "avglandsize": "710.618644067797"
+ },
+ {
+   "Distance": 4,
+   "avgPrice": "1056342.85714286",
+   "avgrooms": "2.42857142857143",
+   "avglandsize": "217.057142857143"
+ },
+ {
+   "Distance": 4.1,
+   "avgPrice": "1671234.04255319",
+   "avgrooms": "2.59574468085106",
+   "avglandsize": "247.978723404255"
+ },
+ {
+   "Distance": 4.2,
+   "avgPrice": "854395.444444444",
+   "avgrooms": "2.42222222222222",
+   "avglandsize": "476.455555555556"
+ },
+ {
+   "Distance": 4.3,
+   "avgPrice": "1141032.11009174",
+   "avgrooms": "3.01834862385321",
+   "avglandsize": "1016.93577981651"
+ },
+ {
+   "Distance": 4.4,
+   "avgPrice": "799375",
+   "avgrooms": "2.33333333333333",
+   "avglandsize": "205"
+ },
+ {
+   "Distance": 4.5,
+   "avgPrice": "991425.333333333",
+   "avgrooms": "2.36666666666667",
+   "avglandsize": "354.126666666667"
+ },
+ {
+   "Distance": 4.6,
+   "avgPrice": "1347167.72280702",
+   "avgrooms": "2.37543859649123",
+   "avglandsize": "348.294736842105"
+ },
+ {
+   "Distance": 5,
+   "avgPrice": "1007151.51515152",
+   "avgrooms": "2.27272727272727",
+   "avglandsize": "344.484848484848"
+ },
+ {
+   "Distance": 5.1,
+   "avgPrice": "895546.511627907",
+   "avgrooms": "2.41860465116279",
+   "avglandsize": "278.302325581395"
+ },
+ {
+   "Distance": 5.2,
+   "avgPrice": "1046363.87096774",
+   "avgrooms": "2.73870967741935",
+   "avglandsize": "351.929032258065"
+ },
+ {
+   "Distance": 5.3,
+   "avgPrice": "1556768.8172043",
+   "avgrooms": "2.87096774193548",
+   "avglandsize": "465.682795698925"
+ },
+ {
+   "Distance": 5.4,
+   "avgPrice": "2092865.85365854",
+   "avgrooms": "3.41463414634146",
+   "avglandsize": "586.817073170732"
+ },
+ {
+   "Distance": 5.5,
+   "avgPrice": "1247859.92907801",
+   "avgrooms": "2.76595744680851",
+   "avglandsize": "336.872340425532"
+ },
+ {
+   "Distance": 5.6,
+   "avgPrice": "1737322.58064516",
+   "avgrooms": "3.16935483870968",
+   "avglandsize": "456.629032258065"
+ },
+ {
+   "Distance": 5.7,
+   "avgPrice": "1595939.39393939",
+   "avgrooms": "3.36363636363636",
+   "avglandsize": "501.181818181818"
+ },
+ {
+   "Distance": 5.8,
+   "avgPrice": "1021971.42857143",
+   "avgrooms": "2.6",
+   "avglandsize": "318.857142857143"
+ },
+ {
+   "Distance": 5.9,
+   "avgPrice": "1174890.18691589",
+   "avgrooms": "2.86448598130841",
+   "avglandsize": "352.509345794393"
+ },
+ {
+   "Distance": 6.1,
+   "avgPrice": "875297.810218978",
+   "avgrooms": "2.05109489051095",
+   "avglandsize": "562.642335766423"
+ },
+ {
+   "Distance": 6.2,
+   "avgPrice": "1318861.51412429",
+   "avgrooms": "3.04519774011299",
+   "avglandsize": "420.237288135593"
+ },
+ {
+   "Distance": 6.3,
+   "avgPrice": "1355805.88235294",
+   "avgrooms": "2.74117647058824",
+   "avglandsize": "384.405882352941"
+ },
+ {
+   "Distance": 6.4,
+   "avgPrice": "837148.602316602",
+   "avgrooms": "2.66409266409266",
+   "avglandsize": "365.23166023166"
+ },
+ {
+   "Distance": 6.5,
+   "avgPrice": "909355.8",
+   "avgrooms": "2.41818181818182",
+   "avglandsize": "349.5"
+ },
+ {
+   "Distance": 6.6,
+   "avgPrice": "890432.835820896",
+   "avgrooms": "2.56716417910448",
+   "avglandsize": "193.597014925373"
+ },
+ {
+   "Distance": 6.7,
+   "avgPrice": "987333.333333333",
+   "avgrooms": "3.05128205128205",
+   "avglandsize": "447.717948717949"
+ },
+ {
+   "Distance": 6.8,
+   "avgPrice": "1454689.65517241",
+   "avgrooms": "3.22413793103448",
+   "avglandsize": "364.603448275862"
+ },
+ {
+   "Distance": 6.9,
+   "avgPrice": "1109829.41176471",
+   "avgrooms": "2.96638655462185",
+   "avglandsize": "333.705882352941"
+ },
+ {
+   "Distance": 7,
+   "avgPrice": "1042040.94845361",
+   "avgrooms": "2.8298969072165",
+   "avglandsize": "334.09793814433"
+ },
+ {
+   "Distance": 7.2,
+   "avgPrice": "1390114.58333333",
+   "avgrooms": "2.72222222222222",
+   "avglandsize": "538.944444444444"
+ },
+ {
+   "Distance": 7.3,
+   "avgPrice": "1818483.19327731",
+   "avgrooms": "3.28571428571429",
+   "avglandsize": "681.176470588235"
+ },
+ {
+   "Distance": 7.4,
+   "avgPrice": "1597094.82758621",
+   "avgrooms": "2.68965517241379",
+   "avglandsize": "353"
+ },
+ {
+   "Distance": 7.5,
+   "avgPrice": "1437572.13438735",
+   "avgrooms": "3.12648221343874",
+   "avglandsize": "498.707509881423"
+ },
+ {
+   "Distance": 7.7,
+   "avgPrice": "1314076.67875648",
+   "avgrooms": "2.86528497409326",
+   "avglandsize": "477.937823834197"
+ },
+ {
+   "Distance": 7.8,
+   "avgPrice": "1240837.61993769",
+   "avgrooms": "2.98130841121495",
+   "avglandsize": "409.317757009346"
+ },
+ {
+   "Distance": 7.9,
+   "avgPrice": "1645137.03703704",
+   "avgrooms": "3.22222222222222",
+   "avglandsize": "564.42962962963"
+ },
+ {
+   "Distance": 8,
+   "avgPrice": "1129112.90322581",
+   "avgrooms": "2.91935483870968",
+   "avglandsize": "350.818548387097"
+ },
+ {
+   "Distance": 8.1,
+   "avgPrice": "1028714.28571429",
+   "avgrooms": "2.46428571428571",
+   "avglandsize": "395.142857142857"
+ },
+ {
+   "Distance": 8.2,
+   "avgPrice": "963828.467153285",
+   "avgrooms": "2.99270072992701",
+   "avglandsize": "429.56204379562"
+ },
+ {
+   "Distance": 8.4,
+   "avgPrice": "1330565.87837838",
+   "avgrooms": "3.18243243243243",
+   "avglandsize": "523.888513513514"
+ },
+ {
+   "Distance": 8.5,
+   "avgPrice": "1011681.1023622",
+   "avgrooms": "2.82677165354331",
+   "avglandsize": "426.488188976378"
+ },
+ {
+   "Distance": 8.6,
+   "avgPrice": "772588.235294118",
+   "avgrooms": "3.05882352941176",
+   "avglandsize": "576.764705882353"
+ },
+ {
+   "Distance": 8.7,
+   "avgPrice": "947766.666666667",
+   "avgrooms": "2.98039215686275",
+   "avglandsize": "918.637254901961"
+ },
+ {
+   "Distance": 8.8,
+   "avgPrice": "862716.25",
+   "avgrooms": "2.85416666666667",
+   "avglandsize": "469.65"
+ },
+ {
+   "Distance": 8.9,
+   "avgPrice": "1091298.96907216",
+   "avgrooms": "3.19587628865979",
+   "avglandsize": "607.19587628866"
+ },
+ {
+   "Distance": 9,
+   "avgPrice": "2034068.96551724",
+   "avgrooms": "3.32758620689655",
+   "avglandsize": "612.775862068965"
+ },
+ {
+   "Distance": 9.1,
+   "avgPrice": "1039845",
+   "avgrooms": "2.88",
+   "avglandsize": "441.34"
+ },
+ {
+   "Distance": 9.2,
+   "avgPrice": "1413130.24523161",
+   "avgrooms": "3.27520435967302",
+   "avglandsize": "795.463215258856"
+ },
+ {
+   "Distance": 9.3,
+   "avgPrice": "1139930.23255814",
+   "avgrooms": "2.69767441860465",
+   "avglandsize": "364.511627906977"
+ },
+ {
+   "Distance": 9.4,
+   "avgPrice": "751530.660377358",
+   "avgrooms": "2.83018867924528",
+   "avglandsize": "595.38679245283"
+ },
+ {
+   "Distance": 9.5,
+   "avgPrice": "852000",
+   "avgrooms": "3.1551724137931",
+   "avglandsize": "574.706896551724"
+ },
+ {
+   "Distance": 9.7,
+   "avgPrice": "1760552.17391304",
+   "avgrooms": "3.52608695652174",
+   "avglandsize": "613.308695652174"
+ },
+ {
+   "Distance": 9.8,
+   "avgPrice": "1014076.92307692",
+   "avgrooms": "3.19230769230769",
+   "avglandsize": "350.730769230769"
+ },
+ {
+   "Distance": 9.9,
+   "avgPrice": "757492",
+   "avgrooms": "2.92",
+   "avglandsize": "439.688"
+ },
+ {
+   "Distance": 10.1,
+   "avgPrice": "1146554.51948052",
+   "avgrooms": "2.66233766233766",
+   "avglandsize": "525.12987012987"
+ },
+ {
+   "Distance": 10.2,
+   "avgPrice": "1851196.72131148",
+   "avgrooms": "3.54098360655738",
+   "avglandsize": "680.295081967213"
+ },
+ {
+   "Distance": 10.3,
+   "avgPrice": "1876695.6043956",
+   "avgrooms": "3.57142857142857",
+   "avglandsize": "628.582417582418"
+ },
+ {
+   "Distance": 10.4,
+   "avgPrice": "1061672.19205298",
+   "avgrooms": "3.21854304635762",
+   "avglandsize": "530.317880794702"
+ },
+ {
+   "Distance": 10.5,
+   "avgPrice": "1162982.05521472",
+   "avgrooms": "3.1840490797546",
+   "avglandsize": "521.555214723926"
+ },
+ {
+   "Distance": 10.6,
+   "avgPrice": "919987.179487179",
+   "avgrooms": "2.8974358974359",
+   "avglandsize": "655.871794871795"
+ },
+ {
+   "Distance": 10.7,
+   "avgPrice": "1532245.37037037",
+   "avgrooms": "3.38888888888889",
+   "avglandsize": "524.037037037037"
+ },
+ {
+   "Distance": 10.8,
+   "avgPrice": "942688.571428571",
+   "avgrooms": "3.25714285714286",
+   "avglandsize": "604.271428571429"
+ },
+ {
+   "Distance": 10.9,
+   "avgPrice": "1661313.09090909",
+   "avgrooms": "3.31818181818182",
+   "avglandsize": "662.590909090909"
+ },
+ {
+   "Distance": 11,
+   "avgPrice": "1343793.20987654",
+   "avgrooms": "3.23456790123457",
+   "avglandsize": "561.382716049383"
+ },
+ {
+   "Distance": 11.1,
+   "avgPrice": "771000",
+   "avgrooms": "3.15789473684211",
+   "avglandsize": "505.052631578947"
+ },
+ {
+   "Distance": 11.2,
+   "avgPrice": "1119002.39925834",
+   "avgrooms": "2.97527812113721",
+   "avglandsize": "519.844252163164"
+ },
+ {
+   "Distance": 11.4,
+   "avgPrice": "1133323.5625",
+   "avgrooms": "2.96323529411765",
+   "avglandsize": "453.4375"
+ },
+ {
+   "Distance": 11.5,
+   "avgPrice": "795912.690476191",
+   "avgrooms": "3.26190476190476",
+   "avglandsize": "473.357142857143"
+ },
+ {
+   "Distance": 11.7,
+   "avgPrice": "1048407.59493671",
+   "avgrooms": "3.41139240506329",
+   "avglandsize": "590.113924050633"
+ },
+ {
+   "Distance": 11.8,
+   "avgPrice": "1223009.65517241",
+   "avgrooms": "3.13793103448276",
+   "avglandsize": "496.937931034483"
+ },
+ {
+   "Distance": 12,
+   "avgPrice": "808695.614035088",
+   "avgrooms": "3.01169590643275",
+   "avglandsize": "555.169590643275"
+ },
+ {
+   "Distance": 12.1,
+   "avgPrice": "824118.786096257",
+   "avgrooms": "3.15508021390374",
+   "avglandsize": "540.828877005348"
+ },
+ {
+   "Distance": 12.2,
+   "avgPrice": "1089722.22222222",
+   "avgrooms": "3.02777777777778",
+   "avglandsize": "526.694444444444"
+ },
+ {
+   "Distance": 12.3,
+   "avgPrice": "1231542.59259259",
+   "avgrooms": "3.38888888888889",
+   "avglandsize": "578.092592592593"
+ },
+ {
+   "Distance": 12.4,
+   "avgPrice": "1019814.81481481",
+   "avgrooms": "3.47619047619048",
+   "avglandsize": "602.687830687831"
+ },
+ {
+   "Distance": 12.5,
+   "avgPrice": "944399.8",
+   "avgrooms": "4",
+   "avglandsize": "572.2"
+ },
+ {
+   "Distance": 12.6,
+   "avgPrice": "709170.20212766",
+   "avgrooms": "3.01063829787234",
+   "avglandsize": "487.840425531915"
+ },
+ {
+   "Distance": 12.7,
+   "avgPrice": "1088863.63636364",
+   "avgrooms": "4",
+   "avglandsize": "599.454545454545"
+ },
+ {
+   "Distance": 12.8,
+   "avgPrice": "735809.375",
+   "avgrooms": "3.20833333333333",
+   "avglandsize": "546.708333333333"
+ },
+ {
+   "Distance": 12.9,
+   "avgPrice": "674134.146341463",
+   "avgrooms": "3.31707317073171",
+   "avglandsize": "536"
+ },
+ {
+   "Distance": 13,
+   "avgPrice": "952113.234126984",
+   "avgrooms": "3.09126984126984",
+   "avglandsize": "511.043650793651"
+ },
+ {
+   "Distance": 13.1,
+   "avgPrice": "944555.652173913",
+   "avgrooms": "3.02608695652174",
+   "avglandsize": "531.982608695652"
+ },
+ {
+   "Distance": 13.3,
+   "avgPrice": "652867.307692308",
+   "avgrooms": "3.11538461538462",
+   "avglandsize": "569.807692307692"
+ },
+ {
+   "Distance": 13.4,
+   "avgPrice": "1239010.98901099",
+   "avgrooms": "3.42857142857143",
+   "avglandsize": "655.967032967033"
+ },
+ {
+   "Distance": 13.5,
+   "avgPrice": "634535.454545455",
+   "avgrooms": "3.1",
+   "avglandsize": "531.181818181818"
+ },
+ {
+   "Distance": 13.6,
+   "avgPrice": "839869.047619048",
+   "avgrooms": "3.26190476190476",
+   "avglandsize": "409.095238095238"
+ },
+ {
+   "Distance": 13.7,
+   "avgPrice": "1607103.09278351",
+   "avgrooms": "3.15463917525773",
+   "avglandsize": "525.20618556701"
+ },
+ {
+   "Distance": 13.8,
+   "avgPrice": "1250407.65625",
+   "avgrooms": "3.334375",
+   "avglandsize": "607.040625"
+ },
+ {
+   "Distance": 13.9,
+   "avgPrice": "1050833.2962963",
+   "avgrooms": "3.15740740740741",
+   "avglandsize": "509.771604938272"
+ },
+ {
+   "Distance": 14,
+   "avgPrice": "676361.326732673",
+   "avgrooms": "3.14356435643564",
+   "avglandsize": "574.90099009901"
+ },
+ {
+   "Distance": 14.2,
+   "avgPrice": "1405290.90909091",
+   "avgrooms": "3.53409090909091",
+   "avglandsize": "662.852272727273"
+ },
+ {
+   "Distance": 14.3,
+   "avgPrice": "1299018.18181818",
+   "avgrooms": "3.60606060606061",
+   "avglandsize": "617.878787878788"
+ },
+ {
+   "Distance": 14.5,
+   "avgPrice": "775445.192307692",
+   "avgrooms": "3.17307692307692",
+   "avglandsize": "529.942307692308"
+ },
+ {
+   "Distance": 14.6,
+   "avgPrice": "963886.71875",
+   "avgrooms": "3.140625",
+   "avglandsize": "616.296875"
+ },
+ {
+   "Distance": 14.7,
+   "avgPrice": "788695.195439739",
+   "avgrooms": "3.50162866449511",
+   "avglandsize": "590.960912052117"
+ },
+ {
+   "Distance": 14.8,
+   "avgPrice": "629788.524590164",
+   "avgrooms": "3.27868852459016",
+   "avglandsize": "521.573770491803"
+ },
+ {
+   "Distance": 14.9,
+   "avgPrice": "737294.871794872",
+   "avgrooms": "3.07692307692308",
+   "avglandsize": "516.846153846154"
+ },
+ {
+   "Distance": 15,
+   "avgPrice": "695333.333333333",
+   "avgrooms": "3.41666666666667",
+   "avglandsize": "577.611111111111"
+ },
+ {
+   "Distance": 15.2,
+   "avgPrice": "1795464.28571429",
+   "avgrooms": "3.61904761904762",
+   "avglandsize": "524.52380952381"
+ },
+ {
+   "Distance": 15.3,
+   "avgPrice": "680236.363636364",
+   "avgrooms": "3.21818181818182",
+   "avglandsize": "563.472727272727"
+ },
+ {
+   "Distance": 15.4,
+   "avgPrice": "1041797.2972973",
+   "avgrooms": "3.36486486486486",
+   "avglandsize": "571.162162162162"
+ },
+ {
+   "Distance": 15.5,
+   "avgPrice": "1011039.01190476",
+   "avgrooms": "3.63690476190476",
+   "avglandsize": "709.827380952381"
+ },
+ {
+   "Distance": 16,
+   "avgPrice": "1283734.69387755",
+   "avgrooms": "3.20408163265306",
+   "avglandsize": "848.775510204082"
+ },
+ {
+   "Distance": 16.1,
+   "avgPrice": "965834.745762712",
+   "avgrooms": "3.46610169491525",
+   "avglandsize": "792.635593220339"
+ },
+ {
+   "Distance": 16.2,
+   "avgPrice": "934164.285714286",
+   "avgrooms": "3.5",
+   "avglandsize": "745.892857142857"
+ },
+ {
+   "Distance": 16.3,
+   "avgPrice": "650618.055555556",
+   "avgrooms": "3.13888888888889",
+   "avglandsize": "571.180555555556"
+ },
+ {
+   "Distance": 16.5,
+   "avgPrice": "679062.5",
+   "avgrooms": "3.58333333333333",
+   "avglandsize": "591.916666666667"
+ },
+ {
+   "Distance": 16.6,
+   "avgPrice": "613000",
+   "avgrooms": "3.28571428571429",
+   "avglandsize": "586.571428571429"
+ },
+ {
+   "Distance": 16.7,
+   "avgPrice": "1353392.41975309",
+   "avgrooms": "3.7962962962963",
+   "avglandsize": "692.228395061728"
+ },
+ {
+   "Distance": 17.2,
+   "avgPrice": "1114956.88",
+   "avgrooms": "3.55",
+   "avglandsize": "635.12"
+ },
+ {
+   "Distance": 17.3,
+   "avgPrice": "1738789.47368421",
+   "avgrooms": "3.70175438596491",
+   "avglandsize": "755.842105263158"
+ },
+ {
+   "Distance": 17.4,
+   "avgPrice": "499619.047619048",
+   "avgrooms": "3.35714285714286",
+   "avglandsize": "603.571428571429"
+ },
+ {
+   "Distance": 17.5,
+   "avgPrice": "926751.428571429",
+   "avgrooms": "3.31428571428571",
+   "avglandsize": "809.514285714286"
+ },
+ {
+   "Distance": 17.6,
+   "avgPrice": "631666.666666667",
+   "avgrooms": "3.66666666666667",
+   "avglandsize": "418.5"
+ },
+ {
+   "Distance": 17.9,
+   "avgPrice": "854146.825396825",
+   "avgrooms": "3.35978835978836",
+   "avglandsize": "553.78835978836"
+ },
+ {
+   "Distance": 18,
+   "avgPrice": "784166.446666667",
+   "avgrooms": "3.69333333333333",
+   "avglandsize": "775.48"
+ },
+ {
+   "Distance": 18.4,
+   "avgPrice": "558196.8",
+   "avgrooms": "3.344",
+   "avglandsize": "581.336"
+ },
+ {
+   "Distance": 18.7,
+   "avgPrice": "817000",
+   "avgrooms": "3",
+   "avglandsize": "619"
+ },
+ {
+   "Distance": 18.8,
+   "avgPrice": "1108115.60784314",
+   "avgrooms": "3.49019607843137",
+   "avglandsize": "652.196078431373"
+ },
+ {
+   "Distance": 19.6,
+   "avgPrice": "594197.115384615",
+   "avgrooms": "3.28846153846154",
+   "avglandsize": "486.076923076923"
+ },
+ {
+   "Distance": 19.9,
+   "avgPrice": "970145.037735849",
+   "avgrooms": "3.47169811320755",
+   "avglandsize": "680.735849056604"
+ },
+ {
+   "Distance": 20,
+   "avgPrice": "1098612.24489796",
+   "avgrooms": "3.30612244897959",
+   "avglandsize": "513.163265306122"
+ },
+ {
+   "Distance": 20.1,
+   "avgPrice": "1340000",
+   "avgrooms": "4",
+   "avglandsize": "1000"
+ },
+ {
+   "Distance": 20.4,
+   "avgPrice": "771826.086956522",
+   "avgrooms": "4.02173913043478",
+   "avglandsize": "885.565217391304"
+ },
+ {
+   "Distance": 20.5,
+   "avgPrice": "653721.153846154",
+   "avgrooms": "3.69230769230769",
+   "avglandsize": "506.807692307692"
+ },
+ {
+   "Distance": 20.6,
+   "avgPrice": "569567.318435754",
+   "avgrooms": "3.5195530726257",
+   "avglandsize": "558.262569832402"
+ },
+ {
+   "Distance": 20.8,
+   "avgPrice": "859525",
+   "avgrooms": "3.05",
+   "avglandsize": "640.35"
+ },
+ {
+   "Distance": 21.1,
+   "avgPrice": "1312416.66666667",
+   "avgrooms": "3.83333333333333",
+   "avglandsize": "2123.33333333333"
+ },
+ {
+   "Distance": 21.3,
+   "avgPrice": "956971.698113208",
+   "avgrooms": "3.35849056603774",
+   "avglandsize": "659.075471698113"
+ },
+ {
+   "Distance": 21.5,
+   "avgPrice": "1157571.42857143",
+   "avgrooms": "3.30769230769231",
+   "avglandsize": "531.285714285714"
+ },
+ {
+   "Distance": 21.8,
+   "avgPrice": "835769.230769231",
+   "avgrooms": "3.61538461538462",
+   "avglandsize": "780.230769230769"
+ },
+ {
+   "Distance": 22.2,
+   "avgPrice": "921015.094339623",
+   "avgrooms": "3.45283018867925",
+   "avglandsize": "665.735849056604"
+ },
+ {
+   "Distance": 22.7,
+   "avgPrice": "715590.909090909",
+   "avgrooms": "3.09090909090909",
+   "avglandsize": "629.636363636364"
+ },
+ {
+   "Distance": 23,
+   "avgPrice": "874137.5",
+   "avgrooms": "3.32142857142857",
+   "avglandsize": "887.619047619048"
+ },
+ {
+   "Distance": 23.2,
+   "avgPrice": "761287.878787879",
+   "avgrooms": "3.33333333333333",
+   "avglandsize": "648.515151515152"
+ },
+ {
+   "Distance": 23.3,
+   "avgPrice": "989750",
+   "avgrooms": "4",
+   "avglandsize": "726.75"
+ },
+ {
+   "Distance": 23.5,
+   "avgPrice": "899561.904761905",
+   "avgrooms": "4.04761904761905",
+   "avglandsize": "652.47619047619"
+ },
+ {
+   "Distance": 23.6,
+   "avgPrice": "835000",
+   "avgrooms": "4",
+   "avglandsize": "601"
+ },
+ {
+   "Distance": 23.8,
+   "avgPrice": "546833.333333333",
+   "avgrooms": "3",
+   "avglandsize": "775.666666666667"
+ },
+ {
+   "Distance": 24.7,
+   "avgPrice": "675506.12244898",
+   "avgrooms": "3.26530612244898",
+   "avglandsize": "602.65306122449"
+ },
+ {
+   "Distance": 24.8,
+   "avgPrice": "807797.617021277",
+   "avgrooms": "3.31914893617021",
+   "avglandsize": "773.510638297872"
+ },
+ {
+   "Distance": 25,
+   "avgPrice": "849157.692307692",
+   "avgrooms": "3.57692307692308",
+   "avglandsize": "1050.42307692308"
+ },
+ {
+   "Distance": 25.2,
+   "avgPrice": "821750",
+   "avgrooms": "3.45833333333333",
+   "avglandsize": "499.375"
+ },
+ {
+   "Distance": 25.5,
+   "avgPrice": "598441.666666667",
+   "avgrooms": "3.61111111111111",
+   "avglandsize": "401.833333333333"
+ },
+ {
+   "Distance": 25.9,
+   "avgPrice": "591740",
+   "avgrooms": "3.52",
+   "avglandsize": "444.506666666667"
+ },
+ {
+   "Distance": 26,
+   "avgPrice": "768136.363636364",
+   "avgrooms": "3",
+   "avglandsize": "838"
+ },
+ {
+   "Distance": 26.1,
+   "avgPrice": "695000",
+   "avgrooms": "4",
+   "avglandsize": "909.5"
+ },
+ {
+   "Distance": 26.5,
+   "avgPrice": "755038.461538462",
+   "avgrooms": "3.38461538461538",
+   "avglandsize": "904.807692307692"
+ },
+ {
+   "Distance": 27,
+   "avgPrice": "900614",
+   "avgrooms": "3.2",
+   "avglandsize": "570.88"
+ },
+ {
+   "Distance": 27.1,
+   "avgPrice": "786745.5",
+   "avgrooms": "3.5",
+   "avglandsize": "767.5"
+ },
+ {
+   "Distance": 27.2,
+   "avgPrice": "478904.761904762",
+   "avgrooms": "3.33333333333333",
+   "avglandsize": "505.666666666667"
+ },
+ {
+   "Distance": 27.7,
+   "avgPrice": "487571.428571429",
+   "avgrooms": "3.57142857142857",
+   "avglandsize": "667.428571428571"
+ },
+ {
+   "Distance": 28.5,
+   "avgPrice": "753433.333333333",
+   "avgrooms": "3.8",
+   "avglandsize": "688.533333333333"
+ },
+ {
+   "Distance": 28.8,
+   "avgPrice": "571863.636363636",
+   "avgrooms": "3.18181818181818",
+   "avglandsize": "659.727272727273"
+ },
+ {
+   "Distance": 29.3,
+   "avgPrice": "825000",
+   "avgrooms": "3.5",
+   "avglandsize": "1596.5"
+ },
+ {
+   "Distance": 29.8,
+   "avgPrice": "447958.333333333",
+   "avgrooms": "3.23809523809524",
+   "avglandsize": "702.309523809524"
+ },
+ {
+   "Distance": 29.9,
+   "avgPrice": "705000",
+   "avgrooms": "3.5",
+   "avglandsize": "797.5"
+ },
+ {
+   "Distance": 31.2,
+   "avgPrice": "751461.538461538",
+   "avgrooms": "3.15384615384615",
+   "avglandsize": "461.769230769231"
+ },
+ {
+   "Distance": 31.4,
+   "avgPrice": "620000",
+   "avgrooms": "3",
+   "avglandsize": "863"
+ },
+ {
+   "Distance": 31.6,
+   "avgPrice": "596666.666666667",
+   "avgrooms": "3.33333333333333",
+   "avglandsize": "1421.33333333333"
+ },
+ {
+   "Distance": 31.7,
+   "avgPrice": "508966.549295775",
+   "avgrooms": "3.5",
+   "avglandsize": "1315.38028169014"
+ },
+ {
+   "Distance": 32.3,
+   "avgPrice": "758250",
+   "avgrooms": "3",
+   "avglandsize": "909.166666666667"
+ },
+ {
+   "Distance": 33,
+   "avgPrice": "630000",
+   "avgrooms": "3",
+   "avglandsize": "859"
+ },
+ {
+   "Distance": 33.3,
+   "avgPrice": "552000",
+   "avgrooms": "3.5",
+   "avglandsize": "560.25"
+ },
+ {
+   "Distance": 34.1,
+   "avgPrice": "644200",
+   "avgrooms": "3.3",
+   "avglandsize": "788.2"
+ },
+ {
+   "Distance": 34.6,
+   "avgPrice": "1077500",
+   "avgrooms": "3.5",
+   "avglandsize": "57245"
+ },
+ {
+   "Distance": 34.7,
+   "avgPrice": "638423.882352941",
+   "avgrooms": "3.76470588235294",
+   "avglandsize": "773.882352941176"
+ },
+ {
+   "Distance": 34.9,
+   "avgPrice": "549583.333333333",
+   "avgrooms": "3.22222222222222",
+   "avglandsize": "603.555555555556"
+ },
+ {
+   "Distance": 35.2,
+   "avgPrice": "833173.076923077",
+   "avgrooms": "3.69230769230769",
+   "avglandsize": "2371.80769230769"
+ },
+ {
+   "Distance": 35.4,
+   "avgPrice": "744340",
+   "avgrooms": "3.44",
+   "avglandsize": "664.12"
+ },
+ {
+   "Distance": 35.5,
+   "avgPrice": "601000",
+   "avgrooms": "3",
+   "avglandsize": "972"
+ },
+ {
+   "Distance": 36.9,
+   "avgPrice": "554000",
+   "avgrooms": "3.30769230769231",
+   "avglandsize": "1389.07692307692"
+ },
+ {
+   "Distance": 37.5,
+   "avgPrice": "382333.333333333",
+   "avgrooms": "3",
+   "avglandsize": "845.666666666667"
+ },
+ {
+   "Distance": 38,
+   "avgPrice": "751240.290697674",
+   "avgrooms": "3.40697674418605",
+   "avglandsize": "838.755813953488"
+ },
+ {
+   "Distance": 39,
+   "avgPrice": "603500",
+   "avgrooms": "3.5",
+   "avglandsize": "680"
+ },
+ {
+   "Distance": 39.8,
+   "avgPrice": "675000",
+   "avgrooms": "4",
+   "avglandsize": "1031"
+ },
+ {
+   "Distance": 41,
+   "avgPrice": "636950",
+   "avgrooms": "3.5",
+   "avglandsize": "1681.9"
+ },
+ {
+   "Distance": 43.3,
+   "avgPrice": "596333.333333333",
+   "avgrooms": "4",
+   "avglandsize": "495.333333333333"
+ },
+ {
+   "Distance": 44.2,
+   "avgPrice": "480875",
+   "avgrooms": "3.5",
+   "avglandsize": "784.5"
+ },
+ {
+   "Distance": 45.2,
+   "avgPrice": "650000",
+   "avgrooms": "3",
+   "avglandsize": "724"
+ },
+ {
+   "Distance": 45.9,
+   "avgPrice": "777545.454545455",
+   "avgrooms": "3.59090909090909",
+   "avglandsize": "17147.1363636364"
+ },
+ {
+   "Distance": 47.3,
+   "avgPrice": "504125",
+   "avgrooms": "3.75",
+   "avglandsize": "672"
+ },
+ {
+   "Distance": 47.4,
+   "avgPrice": "721000",
+   "avgrooms": "3.5",
+   "avglandsize": "1321.5"
+ },
+ {
+   "Distance": 48.1,
+   "avgPrice": "990000",
+   "avgrooms": "4",
+   "avglandsize": "22675"
+ }
+]
