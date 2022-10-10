@@ -31,7 +31,7 @@
       ],
       "encoding": {
         "x": {"field": "Distance", "type": "quantitative"},
-        "y": {"field": "avgPrice", "type": "quantitative"}
+        "y": {"field": "avgPrice", "type": "quantitative", "title":null}
       }
     },
     {
@@ -54,7 +54,7 @@
       ],
       "encoding": {
         "x": {"field": "Distance", "type": "quantitative"},
-        "y": {"field": "avgrooms", "type": "quantitative"}
+        "y": {"field": "avgrooms", "type": "quantitative", "title":null}
       }
     },
     {
