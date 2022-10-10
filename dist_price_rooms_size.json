@@ -54,12 +54,6 @@
    "avglandsize": "364.294117647059"
  },
  {
-   "Distance": 2.1,
-   "avgPrice": "1333696.62921348",
-   "avgrooms": "2.53932584269663",
-   "avglandsize": "5331.55056179775"
- },
- {
    "Distance": 2.3,
    "avgPrice": "859467.072727273",
    "avgrooms": "2.12727272727273",
@@ -1218,12 +1212,6 @@
    "avglandsize": "724"
  },
  {
-   "Distance": 45.9,
-   "avgPrice": "777545.454545455",
-   "avgrooms": "3.59090909090909",
-   "avglandsize": "17147.1363636364"
- },
- {
    "Distance": 47.3,
    "avgPrice": "504125",
    "avgrooms": "3.75",
@@ -1234,11 +1222,5 @@
    "avgPrice": "721000",
    "avgrooms": "3.5",
    "avglandsize": "1321.5"
- },
- {
-   "Distance": 48.1,
-   "avgPrice": "990000",
-   "avgrooms": "4",
-   "avglandsize": "22675"
  }
 ]
