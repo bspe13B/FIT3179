@@ -1,0 +1,86 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "The effect of land size and rooms on sale prices",
+  "width": 500,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/dist_price_rooms_size.json"
+  },
+  "layer": [
+    {
+      "mark": {"opacity": 0.8, "type": "circle", "color": "#0099ff"},
+      "encoding": {
+        "x": {
+          "field": "Distance",
+          "type": "quantitative",
+          "title": "Distance to CBD (Km)"
+        },
+        "y": {
+          "field": "avgPrice",
+          "type": "quantitative",
+          "scale": {"domain": [400000, 2200000]},
+          "title": "Average sale price",
+          "axis": {"titleColor": "#0099ff", "format": ".2s"}
+        }
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "#006eb8"},
+      "transform": [
+        {"regression": "avgPrice", "on": "Distance", "method": "quad"}
+      ],
+      "encoding": {
+        "x": {"field": "Distance", "type": "quantitative"},
+        "y": {
+          "field": "avgPrice",
+          "type": "quantitative",
+          "title": null,
+          "axis": null
+        }
+      }
+    },
+    {
+      "mark": {"opacity": 0.8, "type": "circle", "color": "#ffd000"},
+      "encoding": {
+        "x": {"field": "Distance", "type": "quantitative"},
+        "y": {
+          "field": "avgrooms",
+          "type": "quantitative",
+          "scale": {"domain": [0, 6]},
+          "title": "Average number of rooms",
+          "axis": {"titleColor": "#ffd000", "offset": 0}
+        }
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "#ffe601"},
+      "transform": [
+        {"regression": "avgrooms", "on": "Distance", "method": "poly"}
+      ],
+      "encoding": {
+        "x": {"field": "Distance", "type": "quantitative"},
+        "y": {
+          "field": "avgrooms",
+          "type": "quantitative",
+          "title": null,
+          "axis": null
+        }
+      }
+    },
+    {
+      "mark": {"opacity": 0.5, "type": "circle", "color": "#ff0000"},
+      "encoding": {
+        "x": {"field": "Distance", "type": "quantitative"},
+        "y": {
+          "field": "avglandsize",
+          "type": "quantitative",
+          "scale": {"domain": [0, 5000]},
+          "title": "Average Land size (sqm)",
+          "axis": {"titleColor": "#ff0000", "offset": 70}
+        }
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}},
+  "config": {}
+}
