@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/count_agent_price.json"
+  },
+  "layer": [
+    {
+      "mark": {"opacity": 0.9, "type": "bar", "color": "#0099ff"},
+      "encoding": {
+        "x": {"field": "SellerG", "type": "nominal", "title": "Seller's agent"},
+        "y": {
+          "field": "avgPrice",
+          "type": "quantitative",
+          "title": "Average sale price"
+        }
+      }
+    },
+    {
+      "mark": {"opacity": 0.6, "type": "bar", "color": "#ffd000"},
+      "encoding": {
+        "x": {"field": "SellerG", "type": "nominal"},
+        "y": {
+          "field": "count",
+          "type": "quantitative",
+          "scale": {"domain": [0, 5000]},
+          "title": "Number of sales",
+          "axis": {"titleColor": "#ffd000"}
+        },
+        "xOffset": {"field": ""}
+      }
+    }
+  ],
+  "resolve": {"scale": {"y": "independent"}},
+  "config": {}
+}
