@@ -1,0 +1,137 @@
+[
+ {
+   "Date": "Mar-2007",
+   "Syd": 480,
+   "NSW": 300,
+   "Mel": 345,
+   "Vic": 230,
+   "Perth": 475,
+   "Hobart": 280
+ },
+ {
+   "Date": "Mar-2008",
+   "Syd": 495,
+   "NSW": 308,
+   "Mel": 385,
+   "Vic": 243.5,
+   "Perth": 470,
+   "Hobart": 308.5
+ },
+ {
+   "Date": "Mar-2009",
+   "Syd": 448,
+   "NSW": 300,
+   "Mel": 375,
+   "Vic": 238,
+   "Perth": 439,
+   "Hobart": 296.5
+ },
+ {
+   "Date": "Mar-2010",
+   "Syd": 583,
+   "NSW": 340,
+   "Mel": 468,
+   "Vic": 275,
+   "Perth": 518,
+   "Hobart": 350.5
+ },
+ {
+   "Date": "Mar-2011",
+   "Syd": 575,
+   "NSW": 345,
+   "Mel": 485,
+   "Vic": 293,
+   "Perth": 500,
+   "Hobart": 338
+ },
+ {
+   "Date": "Mar-2012",
+   "Syd": 607.5,
+   "NSW": 345,
+   "Mel": 478,
+   "Vic": 297.5,
+   "Perth": 489.5,
+   "Hobart": 343
+ },
+ {
+   "Date": "Mar-2013",
+   "Syd": 615,
+   "NSW": 357.5,
+   "Mel": 486,
+   "Vic": 298,
+   "Perth": 520,
+   "Hobart": 340
+ },
+ {
+   "Date": "Mar-2014",
+   "Syd": 680,
+   "NSW": 362,
+   "Mel": 504,
+   "Vic": 290,
+   "Perth": 530.5,
+   "Hobart": 360
+ },
+ {
+   "Date": "Mar-2015",
+   "Syd": 792.5,
+   "NSW": 390,
+   "Mel": 525,
+   "Vic": 299,
+   "Perth": 536.5,
+   "Hobart": 360
+ },
+ {
+   "Date": "Mar-2016",
+   "Syd": 850,
+   "NSW": 415,
+   "Mel": 568,
+   "Vic": 311,
+   "Perth": 518,
+   "Hobart": 360
+ },
+ {
+   "Date": "Mar-2017",
+   "Syd": 930,
+   "NSW": 455,
+   "Mel": 657.5,
+   "Vic": 328,
+   "Perth": 510,
+   "Hobart": 389.5
+ },
+ {
+   "Date": "Mar-2018",
+   "Syd": 955,
+   "NSW": 480,
+   "Mel": 731,
+   "Vic": 355,
+   "Perth": 510,
+   "Hobart": 449
+ },
+ {
+   "Date": "Mar-2019",
+   "Syd": 870,
+   "NSW": 462,
+   "Mel": 685,
+   "Vic": 370,
+   "Perth": 490,
+   "Hobart": 471.5
+ },
+ {
+   "Date": "Mar-2020",
+   "Syd": 949,
+   "NSW": 490,
+   "Mel": 730,
+   "Vic": 390,
+   "Perth": 477.5,
+   "Hobart": 529.5
+ },
+ {
+   "Date": "Mar-2021",
+   "Syd": 1070,
+   "NSW": 620,
+   "Mel": 850,
+   "Vic": 548,
+   "Perth": 540,
+   "Hobart": 610
+ }
+]
