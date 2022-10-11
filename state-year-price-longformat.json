@@ -1,0 +1,452 @@
+[
+ {
+   "Location": "Syd",
+   "Price": 480,
+   "Year": 2007
+ },
+ {
+   "Location": "Syd",
+   "Price": 495,
+   "Year": 2008
+ },
+ {
+   "Location": "Syd",
+   "Price": 448,
+   "Year": 2009
+ },
+ {
+   "Location": "Syd",
+   "Price": 583,
+   "Year": 2010
+ },
+ {
+   "Location": "Syd",
+   "Price": 575,
+   "Year": 2011
+ },
+ {
+   "Location": "Syd",
+   "Price": 607.5,
+   "Year": 2012
+ },
+ {
+   "Location": "Syd",
+   "Price": 615,
+   "Year": 2013
+ },
+ {
+   "Location": "Syd",
+   "Price": 680,
+   "Year": 2014
+ },
+ {
+   "Location": "Syd",
+   "Price": 792.5,
+   "Year": 2015
+ },
+ {
+   "Location": "Syd",
+   "Price": 850,
+   "Year": 2016
+ },
+ {
+   "Location": "Syd",
+   "Price": 930,
+   "Year": 2017
+ },
+ {
+   "Location": "Syd",
+   "Price": 955,
+   "Year": 2018
+ },
+ {
+   "Location": "Syd",
+   "Price": 870,
+   "Year": 2019
+ },
+ {
+   "Location": "Syd",
+   "Price": 949,
+   "Year": 2020
+ },
+ {
+   "Location": "Syd",
+   "Price": 1070,
+   "Year": 2021
+ },
+ {
+   "Location": "Nsw",
+   "Price": 300,
+   "Year": 2007
+ },
+ {
+   "Location": "Nsw",
+   "Price": 308,
+   "Year": 2008
+ },
+ {
+   "Location": "Nsw",
+   "Price": 300,
+   "Year": 2009
+ },
+ {
+   "Location": "Nsw",
+   "Price": 340,
+   "Year": 2010
+ },
+ {
+   "Location": "Nsw",
+   "Price": 345,
+   "Year": 2011
+ },
+ {
+   "Location": "Nsw",
+   "Price": 345,
+   "Year": 2012
+ },
+ {
+   "Location": "Nsw",
+   "Price": 357.5,
+   "Year": 2013
+ },
+ {
+   "Location": "Nsw",
+   "Price": 362,
+   "Year": 2014
+ },
+ {
+   "Location": "Nsw",
+   "Price": 390,
+   "Year": 2015
+ },
+ {
+   "Location": "Nsw",
+   "Price": 415,
+   "Year": 2016
+ },
+ {
+   "Location": "Nsw",
+   "Price": 455,
+   "Year": 2017
+ },
+ {
+   "Location": "Nsw",
+   "Price": 480,
+   "Year": 2018
+ },
+ {
+   "Location": "Nsw",
+   "Price": 462,
+   "Year": 2019
+ },
+ {
+   "Location": "Nsw",
+   "Price": 490,
+   "Year": 2020
+ },
+ {
+   "Location": "Nsw",
+   "Price": 620,
+   "Year": 2021
+ },
+ {
+   "Location": "Mel",
+   "Price": 345,
+   "Year": 2007
+ },
+ {
+   "Location": "Mel",
+   "Price": 385,
+   "Year": 2008
+ },
+ {
+   "Location": "Mel",
+   "Price": 375,
+   "Year": 2009
+ },
+ {
+   "Location": "Mel",
+   "Price": 468,
+   "Year": 2010
+ },
+ {
+   "Location": "Mel",
+   "Price": 485,
+   "Year": 2011
+ },
+ {
+   "Location": "Mel",
+   "Price": 478,
+   "Year": 2012
+ },
+ {
+   "Location": "Mel",
+   "Price": 486,
+   "Year": 2013
+ },
+ {
+   "Location": "Mel",
+   "Price": 504,
+   "Year": 2014
+ },
+ {
+   "Location": "Mel",
+   "Price": 525,
+   "Year": 2015
+ },
+ {
+   "Location": "Mel",
+   "Price": 568,
+   "Year": 2016
+ },
+ {
+   "Location": "Mel",
+   "Price": 657.5,
+   "Year": 2017
+ },
+ {
+   "Location": "Mel",
+   "Price": 731,
+   "Year": 2018
+ },
+ {
+   "Location": "Mel",
+   "Price": 685,
+   "Year": 2019
+ },
+ {
+   "Location": "Mel",
+   "Price": 730,
+   "Year": 2020
+ },
+ {
+   "Location": "Mel",
+   "Price": 850,
+   "Year": 2021
+ },
+ {
+   "Location": "Vic",
+   "Price": 230,
+   "Year": 2007
+ },
+ {
+   "Location": "Vic",
+   "Price": 243.5,
+   "Year": 2008
+ },
+ {
+   "Location": "Vic",
+   "Price": 238,
+   "Year": 2009
+ },
+ {
+   "Location": "Vic",
+   "Price": 275,
+   "Year": 2010
+ },
+ {
+   "Location": "Vic",
+   "Price": 293,
+   "Year": 2011
+ },
+ {
+   "Location": "Vic",
+   "Price": 297.5,
+   "Year": 2012
+ },
+ {
+   "Location": "Vic",
+   "Price": 298,
+   "Year": 2013
+ },
+ {
+   "Location": "Vic",
+   "Price": 290,
+   "Year": 2014
+ },
+ {
+   "Location": "Vic",
+   "Price": 299,
+   "Year": 2015
+ },
+ {
+   "Location": "Vic",
+   "Price": 311,
+   "Year": 2016
+ },
+ {
+   "Location": "Vic",
+   "Price": 328,
+   "Year": 2017
+ },
+ {
+   "Location": "Vic",
+   "Price": 355,
+   "Year": 2018
+ },
+ {
+   "Location": "Vic",
+   "Price": 370,
+   "Year": 2019
+ },
+ {
+   "Location": "Vic",
+   "Price": 390,
+   "Year": 2020
+ },
+ {
+   "Location": "Vic",
+   "Price": 548,
+   "Year": 2021
+ },
+ {
+   "Location": "Perth",
+   "Price": 475,
+   "Year": 2007
+ },
+ {
+   "Location": "Perth",
+   "Price": 470,
+   "Year": 2008
+ },
+ {
+   "Location": "Perth",
+   "Price": 439,
+   "Year": 2009
+ },
+ {
+   "Location": "Perth",
+   "Price": 518,
+   "Year": 2010
+ },
+ {
+   "Location": "Perth",
+   "Price": 500,
+   "Year": 2011
+ },
+ {
+   "Location": "Perth",
+   "Price": 489.5,
+   "Year": 2012
+ },
+ {
+   "Location": "Perth",
+   "Price": 520,
+   "Year": 2013
+ },
+ {
+   "Location": "Perth",
+   "Price": 530.5,
+   "Year": 2014
+ },
+ {
+   "Location": "Perth",
+   "Price": 536.5,
+   "Year": 2015
+ },
+ {
+   "Location": "Perth",
+   "Price": 518,
+   "Year": 2016
+ },
+ {
+   "Location": "Perth",
+   "Price": 510,
+   "Year": 2017
+ },
+ {
+   "Location": "Perth",
+   "Price": 510,
+   "Year": 2018
+ },
+ {
+   "Location": "Perth",
+   "Price": 490,
+   "Year": 2019
+ },
+ {
+   "Location": "Perth",
+   "Price": 477.5,
+   "Year": 2020
+ },
+ {
+   "Location": "Perth",
+   "Price": 540,
+   "Year": 2021
+ },
+ {
+   "Location": "Hobart",
+   "Price": 280,
+   "Year": 2007
+ },
+ {
+   "Location": "Hobart",
+   "Price": 308.5,
+   "Year": 2008
+ },
+ {
+   "Location": "Hobart",
+   "Price": 296.5,
+   "Year": 2009
+ },
+ {
+   "Location": "Hobart",
+   "Price": 350.5,
+   "Year": 2010
+ },
+ {
+   "Location": "Hobart",
+   "Price": 338,
+   "Year": 2011
+ },
+ {
+   "Location": "Hobart",
+   "Price": 343,
+   "Year": 2012
+ },
+ {
+   "Location": "Hobart",
+   "Price": 340,
+   "Year": 2013
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": 2014
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": 2015
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": 2016
+ },
+ {
+   "Location": "Hobart",
+   "Price": 389.5,
+   "Year": 2017
+ },
+ {
+   "Location": "Hobart",
+   "Price": 449,
+   "Year": 2018
+ },
+ {
+   "Location": "Hobart",
+   "Price": 471.5,
+   "Year": 2019
+ },
+ {
+   "Location": "Hobart",
+   "Price": 529.5,
+   "Year": 2020
+ },
+ {
+   "Location": "Hobart",
+   "Price": 610,
+   "Year": 2021
+ }
+]
