@@ -1,0 +1,29 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/count_agent_price.json"
+  },
+  "transform": [
+    {
+      "calculate": "'Number of sales by ' + datum.SellerG + ': '  + datum.count",
+      "as": "note"
+    }
+  ],
+  "mark": {"type": "bar", "color": "#1D6BAF"},
+  "encoding": {
+    "x": {
+      "field": "SellerG",
+      "type": "nominal",
+      "title": "Seller's agent",
+      "sort": "-y"
+    },
+    "y": {
+      "field": "avgPrice",
+      "type": "quantitative",
+      "title": "Average sale price (AUD)"
+    },
+    "tooltip": {"field": "note", "type": "nominal"}
+  },
+  "config": {}
+}
