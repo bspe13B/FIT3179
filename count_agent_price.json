@@ -12,12 +12,6 @@
    "count": 4818
  },
  {
-   "SellerG": "Bayside",
-   "avgPrice": 1020595.238,
-   "avgdist": 17.06190476,
-   "count": 21
- },
- {
    "SellerG": "Buckingham",
    "avgPrice": 803305.283,
    "avgdist": 15.74,
@@ -34,12 +28,6 @@
    "avgPrice": 757954.8696,
    "avgdist": 19.1468599,
    "count": 207
- },
- {
-   "SellerG": "Flannagan",
-   "avgPrice": 824981.4815,
-   "avgdist": 15.8,
-   "count": 27
  },
  {
    "SellerG": "FN",
@@ -88,12 +76,6 @@
    "avgPrice": 984661.6222,
    "avgdist": 17.79851852,
    "count": 270
- },
- {
-   "SellerG": "Prof.",
-   "avgPrice": 682613.8941,
-   "avgdist": 17.25176471,
-   "count": 170
  },
  {
    "SellerG": "Professionals",
