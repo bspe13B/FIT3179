@@ -1,0 +1,102 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Melbourne house prices by Local Government regions",
+  "width": 500,
+  "height": 500,
+  "projection": {"type": "equirectangular"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/topoJSON_regional_melbourne_only_TOPOfinal.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "topoJSON_regional_melbourne_only"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.LGA_NAME22",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ddd",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {"tooltip": {"field": "note"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/topoJSON_regional_melbourne_only_TOPOfinal.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "topoJSON_regional_melbourne_only"
+        }
+      },
+      "transform": [
+        {"calculate": "datum.properties.LGA_NAME22", "as": "City Council"},
+        {
+          "lookup": "City Council",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/Councilareavsmeanprice_updated.csv"
+            },
+            "key": "CouncilArea",
+            "fields": ["avgPrice"]
+          }
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "#fff", "strokeWidth": 0.5},
+      "encoding": {
+        "color": {
+          "field": "avgPrice",
+          "type": "quantitative",
+          "title": "Average Price",
+          "scale": {"domain": [400000, 1800000], "scheme": "blues"},
+          "legend": {"format": ".2s"}
+        },
+        "tooltip": [
+          {
+            "field": "City Council",
+            "type": "nominal",
+            "title": "Local Government Area"
+          },
+          {
+            "field": "avgPrice",
+            "type": "quantitative",
+            "title": "Average Price",
+            "format": ".3s"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/viccitiesreclippedalldata.topojson",
+        "format": {"type": "topojson", "feature": "collection"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#01f7ff",
+        "strokeWidth": 0,
+        "color": "#fdd41c",
+        "opacity": 0.92
+      },
+      "encoding": {
+        "color": {},
+        "tooltip": [
+          {"field": "properties.city", "type": "nominal", "title": "City"},
+          {
+            "field": "properties.population",
+            "type": "quantitative",
+            "title": "Population",
+            "format": ".3s"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
