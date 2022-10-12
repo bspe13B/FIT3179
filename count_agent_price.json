@@ -1,21 +1,9 @@
 [
  {
-   "SellerG": "@Realty",
-   "avgPrice": 748928.5714,
-   "avgdist": 17.08571429,
-   "count": 21
- },
- {
    "SellerG": "Barry",
    "avgPrice": 834972.823,
    "avgdist": 15.03466169,
    "count": 4818
- },
- {
-   "SellerG": "Eview",
-   "avgPrice": 757954.8696,
-   "avgdist": 19.1468599,
-   "count": 207
  },
  {
    "SellerG": "FN",
