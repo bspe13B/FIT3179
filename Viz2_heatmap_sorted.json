@@ -35,5 +35,5 @@
       }
     ]
   },
-  "config": {"axis": {"grid": true, "tickBand": "extent"}}
+  "config": {"axis": {"grid": true, "tickBand": "extent"}, "background": "f7f7f7"}
 }
