@@ -3,7 +3,7 @@
   "title": "The effect of land size and rooms on sale prices",
   "width": 400,
   "height": 400,
-  "background": "f9f9f9",
+  "background": "#b90505,
   "data": {
     "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/dist_price_rooms_size.json"
   },
