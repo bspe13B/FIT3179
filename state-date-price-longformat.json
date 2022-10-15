@@ -1,0 +1,452 @@
+[
+ {
+   "Location": "Sydney",
+   "Price": 480,
+   "Year": "Mar-07"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 495,
+   "Year": "Mar-08"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 448,
+   "Year": "Mar-09"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 583,
+   "Year": "Mar-10"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 575,
+   "Year": "Mar-11"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 607.5,
+   "Year": "Mar-12"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 615,
+   "Year": "Mar-13"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 680,
+   "Year": "Mar-14"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 792.5,
+   "Year": "Mar-15"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 850,
+   "Year": "Mar-16"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 930,
+   "Year": "Mar-17"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 955,
+   "Year": "Mar-18"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 870,
+   "Year": "Mar-19"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 949,
+   "Year": "Mar-20"
+ },
+ {
+   "Location": "Sydney",
+   "Price": 1070,
+   "Year": "Mar-21"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 300,
+   "Year": "Mar-07"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 308,
+   "Year": "Mar-08"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 300,
+   "Year": "Mar-09"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 340,
+   "Year": "Mar-10"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 345,
+   "Year": "Mar-11"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 345,
+   "Year": "Mar-12"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 357.5,
+   "Year": "Mar-13"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 362,
+   "Year": "Mar-14"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 390,
+   "Year": "Mar-15"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 415,
+   "Year": "Mar-16"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 455,
+   "Year": "Mar-17"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 480,
+   "Year": "Mar-18"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 462,
+   "Year": "Mar-19"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 490,
+   "Year": "Mar-20"
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 620,
+   "Year": "Mar-21"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 345,
+   "Year": "Mar-07"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 385,
+   "Year": "Mar-08"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 375,
+   "Year": "Mar-09"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 468,
+   "Year": "Mar-10"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 485,
+   "Year": "Mar-11"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 478,
+   "Year": "Mar-12"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 486,
+   "Year": "Mar-13"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 504,
+   "Year": "Mar-14"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 525,
+   "Year": "Mar-15"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 568,
+   "Year": "Mar-16"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 657.5,
+   "Year": "Mar-17"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 731,
+   "Year": "Mar-18"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 685,
+   "Year": "Mar-19"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 730,
+   "Year": "Mar-20"
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 850,
+   "Year": "Mar-21"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 230,
+   "Year": "Mar-07"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 243.5,
+   "Year": "Mar-08"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 238,
+   "Year": "Mar-09"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 275,
+   "Year": "Mar-10"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 293,
+   "Year": "Mar-11"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 297.5,
+   "Year": "Mar-12"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 298,
+   "Year": "Mar-13"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 290,
+   "Year": "Mar-14"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 299,
+   "Year": "Mar-15"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 311,
+   "Year": "Mar-16"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 328,
+   "Year": "Mar-17"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 355,
+   "Year": "Mar-18"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 370,
+   "Year": "Mar-19"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 390,
+   "Year": "Mar-20"
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 548,
+   "Year": "Mar-21"
+ },
+ {
+   "Location": "Perth",
+   "Price": 475,
+   "Year": "Mar-07"
+ },
+ {
+   "Location": "Perth",
+   "Price": 470,
+   "Year": "Mar-08"
+ },
+ {
+   "Location": "Perth",
+   "Price": 439,
+   "Year": "Mar-09"
+ },
+ {
+   "Location": "Perth",
+   "Price": 518,
+   "Year": "Mar-10"
+ },
+ {
+   "Location": "Perth",
+   "Price": 500,
+   "Year": "Mar-11"
+ },
+ {
+   "Location": "Perth",
+   "Price": 489.5,
+   "Year": "Mar-12"
+ },
+ {
+   "Location": "Perth",
+   "Price": 520,
+   "Year": "Mar-13"
+ },
+ {
+   "Location": "Perth",
+   "Price": 530.5,
+   "Year": "Mar-14"
+ },
+ {
+   "Location": "Perth",
+   "Price": 536.5,
+   "Year": "Mar-15"
+ },
+ {
+   "Location": "Perth",
+   "Price": 518,
+   "Year": "Mar-16"
+ },
+ {
+   "Location": "Perth",
+   "Price": 510,
+   "Year": "Mar-17"
+ },
+ {
+   "Location": "Perth",
+   "Price": 510,
+   "Year": "Mar-18"
+ },
+ {
+   "Location": "Perth",
+   "Price": 490,
+   "Year": "Mar-19"
+ },
+ {
+   "Location": "Perth",
+   "Price": 477.5,
+   "Year": "Mar-20"
+ },
+ {
+   "Location": "Perth",
+   "Price": 540,
+   "Year": "Mar-21"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 280,
+   "Year": "Mar-07"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 308.5,
+   "Year": "Mar-08"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 296.5,
+   "Year": "Mar-09"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 350.5,
+   "Year": "Mar-10"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 338,
+   "Year": "Mar-11"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 343,
+   "Year": "Mar-12"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 340,
+   "Year": "Mar-13"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": "Mar-14"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": "Mar-15"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": "Mar-16"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 389.5,
+   "Year": "Mar-17"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 449,
+   "Year": "Mar-18"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 471.5,
+   "Year": "Mar-19"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 529.5,
+   "Year": "Mar-20"
+ },
+ {
+   "Location": "Hobart",
+   "Price": 610,
+   "Year": "Mar-21"
+ }
+]
