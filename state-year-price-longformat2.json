@@ -1,0 +1,452 @@
+[
+ {
+   "Location": "Sydney",
+   "Price": 480,
+   "Year": 2007
+ },
+ {
+   "Location": "Sydney",
+   "Price": 495,
+   "Year": 2008
+ },
+ {
+   "Location": "Sydney",
+   "Price": 448,
+   "Year": 2009
+ },
+ {
+   "Location": "Sydney",
+   "Price": 583,
+   "Year": 2010
+ },
+ {
+   "Location": "Sydney",
+   "Price": 575,
+   "Year": 2011
+ },
+ {
+   "Location": "Sydney",
+   "Price": 607.5,
+   "Year": 2012
+ },
+ {
+   "Location": "Sydney",
+   "Price": 615,
+   "Year": 2013
+ },
+ {
+   "Location": "Sydney",
+   "Price": 680,
+   "Year": 2014
+ },
+ {
+   "Location": "Sydney",
+   "Price": 792.5,
+   "Year": 2015
+ },
+ {
+   "Location": "Sydney",
+   "Price": 850,
+   "Year": 2016
+ },
+ {
+   "Location": "Sydney",
+   "Price": 930,
+   "Year": 2017
+ },
+ {
+   "Location": "Sydney",
+   "Price": 955,
+   "Year": 2018
+ },
+ {
+   "Location": "Sydney",
+   "Price": 870,
+   "Year": 2019
+ },
+ {
+   "Location": "Sydney",
+   "Price": 949,
+   "Year": 2020
+ },
+ {
+   "Location": "Sydney",
+   "Price": 1070,
+   "Year": 2021
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 300,
+   "Year": 2007
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 308,
+   "Year": 2008
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 300,
+   "Year": 2009
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 340,
+   "Year": 2010
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 345,
+   "Year": 2011
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 345,
+   "Year": 2012
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 357.5,
+   "Year": 2013
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 362,
+   "Year": 2014
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 390,
+   "Year": 2015
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 415,
+   "Year": 2016
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 455,
+   "Year": 2017
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 480,
+   "Year": 2018
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 462,
+   "Year": 2019
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 490,
+   "Year": 2020
+ },
+ {
+   "Location": "Rest of NSW",
+   "Price": 620,
+   "Year": 2021
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 345,
+   "Year": 2007
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 385,
+   "Year": 2008
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 375,
+   "Year": 2009
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 468,
+   "Year": 2010
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 485,
+   "Year": 2011
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 478,
+   "Year": 2012
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 486,
+   "Year": 2013
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 504,
+   "Year": 2014
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 525,
+   "Year": 2015
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 568,
+   "Year": 2016
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 657.5,
+   "Year": 2017
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 731,
+   "Year": 2018
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 685,
+   "Year": 2019
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 730,
+   "Year": 2020
+ },
+ {
+   "Location": "Melbourne",
+   "Price": 850,
+   "Year": 2021
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 230,
+   "Year": 2007
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 243.5,
+   "Year": 2008
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 238,
+   "Year": 2009
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 275,
+   "Year": 2010
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 293,
+   "Year": 2011
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 297.5,
+   "Year": 2012
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 298,
+   "Year": 2013
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 290,
+   "Year": 2014
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 299,
+   "Year": 2015
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 311,
+   "Year": 2016
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 328,
+   "Year": 2017
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 355,
+   "Year": 2018
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 370,
+   "Year": 2019
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 390,
+   "Year": 2020
+ },
+ {
+   "Location": "Rest of Victoria",
+   "Price": 548,
+   "Year": 2021
+ },
+ {
+   "Location": "Perth",
+   "Price": 475,
+   "Year": 2007
+ },
+ {
+   "Location": "Perth",
+   "Price": 470,
+   "Year": 2008
+ },
+ {
+   "Location": "Perth",
+   "Price": 439,
+   "Year": 2009
+ },
+ {
+   "Location": "Perth",
+   "Price": 518,
+   "Year": 2010
+ },
+ {
+   "Location": "Perth",
+   "Price": 500,
+   "Year": 2011
+ },
+ {
+   "Location": "Perth",
+   "Price": 489.5,
+   "Year": 2012
+ },
+ {
+   "Location": "Perth",
+   "Price": 520,
+   "Year": 2013
+ },
+ {
+   "Location": "Perth",
+   "Price": 530.5,
+   "Year": 2014
+ },
+ {
+   "Location": "Perth",
+   "Price": 536.5,
+   "Year": 2015
+ },
+ {
+   "Location": "Perth",
+   "Price": 518,
+   "Year": 2016
+ },
+ {
+   "Location": "Perth",
+   "Price": 510,
+   "Year": 2017
+ },
+ {
+   "Location": "Perth",
+   "Price": 510,
+   "Year": 2018
+ },
+ {
+   "Location": "Perth",
+   "Price": 490,
+   "Year": 2019
+ },
+ {
+   "Location": "Perth",
+   "Price": 477.5,
+   "Year": 2020
+ },
+ {
+   "Location": "Perth",
+   "Price": 540,
+   "Year": 2021
+ },
+ {
+   "Location": "Hobart",
+   "Price": 280,
+   "Year": 2007
+ },
+ {
+   "Location": "Hobart",
+   "Price": 308.5,
+   "Year": 2008
+ },
+ {
+   "Location": "Hobart",
+   "Price": 296.5,
+   "Year": 2009
+ },
+ {
+   "Location": "Hobart",
+   "Price": 350.5,
+   "Year": 2010
+ },
+ {
+   "Location": "Hobart",
+   "Price": 338,
+   "Year": 2011
+ },
+ {
+   "Location": "Hobart",
+   "Price": 343,
+   "Year": 2012
+ },
+ {
+   "Location": "Hobart",
+   "Price": 340,
+   "Year": 2013
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": 2014
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": 2015
+ },
+ {
+   "Location": "Hobart",
+   "Price": 360,
+   "Year": 2016
+ },
+ {
+   "Location": "Hobart",
+   "Price": 389.5,
+   "Year": 2017
+ },
+ {
+   "Location": "Hobart",
+   "Price": 449,
+   "Year": 2018
+ },
+ {
+   "Location": "Hobart",
+   "Price": 471.5,
+   "Year": 2019
+ },
+ {
+   "Location": "Hobart",
+   "Price": 529.5,
+   "Year": 2020
+ },
+ {
+   "Location": "Hobart",
+   "Price": 610,
+   "Year": 2021
+ }
+]
