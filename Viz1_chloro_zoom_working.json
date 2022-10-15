@@ -3,6 +3,7 @@
   "title": "Melbourne house prices by Local Government regions",
   "width": 450,
   "height": 450,
+  "background": "#f9f9f8",
   "params": [
     {
       "name": "zoom_level",
