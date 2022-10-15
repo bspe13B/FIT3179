@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 350,
   "height": 425,
-  "background": "#f9f9f9",
+  "background": "#f9f9f8",
   "data": {
     "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/MonthVSSALEPRICE_count.json"
   },
