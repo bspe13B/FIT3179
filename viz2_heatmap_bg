@@ -19,7 +19,7 @@
       "field": "price",
       "type": "quantitative",
       "title": "Average Sale Price",
-      "scale": {"domain": [700000, 1103000], "scheme": "blues"}
+      "scale": {"domain": [700000, 1103000], "scheme": "blues"}, "axis":{"format": ".2s"}
     },
     "tooltip": [
       {
