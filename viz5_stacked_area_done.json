@@ -1,0 +1,22 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 425,
+  "height": "container",
+  "background": "#f9f9f8",
+  "data": {
+    "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/state-year-price-longformat2.json"
+  },
+  "mark": "area",
+  "encoding": {
+    "x": {"field": "Year", "axis": {"domain": false, "tickSize": 5}},
+    "y": {
+      "aggregate": "sum",
+      "field": "Price",
+      "axis": null,
+      "stack": "center"
+    },
+    "color": {"field": "Location", "scale": {"scheme": "category20c"}},
+    "tooltip": {"field": "Location", "type": "nominal"}
+  },
+  "config": {}
+}
