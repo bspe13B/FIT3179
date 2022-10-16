@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 360,
+  "height": 350,
+  "background": "#f9f9f8",
+  "data": {
+    "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/MonthVSSALEPRICE_count.json"
+  },
+  "mark": "rect",
+  "encoding": {
+    "y": {"field": "year", "type": "nominal", "title": "Calendar year"},
+    "x": {
+      "field": "month",
+      "type": "nominal",
+      "title": "Month",
+      "sort": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ]
+    },
+    "color": {
+      "field": "price",
+      "type": "quantitative",
+      "title": "Average Sale Price (AUD)",
+      "scale": {"domain": [700000, 1103000], "scheme": "blues"}
+    },
+    "tooltip": [
+      {
+        "field": "price",
+        "type": "quantitative",
+        "title": "Average property price",
+        "format": ".4s"
+      },
+      {
+        "field": "n_sold",
+        "type": "quantitative",
+        "title": "Number of houses sold",
+        "format": ".0f"
+      }
+    ]
+  },
+  "config": {"axis": {"grid": true, "tickBand": "extent"}}
+}
