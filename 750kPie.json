@@ -1,0 +1,33 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple pie chart with embedded data.",
+  "height": 300,
+  "width": "container",
+  "data": {
+    "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/type_count_price_750k.csv"
+  },
+  "mark": "arc",
+  "encoding": {
+    "theta": {"field": "count", "type": "quantitative"},
+    "color": {
+      "field": "Type",
+      "type": "nominal",
+      "scale": {"scheme": "category20"}
+    },
+    "tooltip": [
+      {
+        "field": "avgPrice",
+        "type": "quantitative",
+        "title": "Average sale price",
+        "format": ".3s"
+      },
+      {
+        "field": "count",
+        "type": "quantitative",
+        "title": "Number sold",
+        "format": ".3s"
+      }
+    ]
+  },
+  "config": {}
+}
