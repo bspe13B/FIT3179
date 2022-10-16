@@ -1,6 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#f9f9f8",
+  "height": 300,
   "width": "container",
   "data": {
     "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/type_dist_price_clean.csv"
