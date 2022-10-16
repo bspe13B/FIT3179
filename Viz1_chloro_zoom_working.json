@@ -99,7 +99,7 @@
         "type": "geoshape",
         "stroke": "#01f7ff",
         "strokeWidth": 0,
-        "color": "#fdd41c",
+        "color": "#ff9d1d",
         "opacity": 0.92
       },
       "encoding": {
