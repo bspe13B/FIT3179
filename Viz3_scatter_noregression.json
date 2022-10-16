@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "The effect of land size and rooms on sale prices",
   "width": 400,
   "height": 400,
   "background": "#f9f9f9",
