@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 600,
-  "height": "container",
+  "height": 400,
   "background": "#f9f9f8",
   "data": {
     "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/state-year-price-longformat2.json"
