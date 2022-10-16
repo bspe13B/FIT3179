@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#f9f9f8",
+  "width": "container",
+  "data": {
+    "url": "https://raw.githubusercontent.com/bspe13B/FIT3179/main/type_dist_price_clean.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "field": "Distance",
+      "type": "quantitative",
+      "title": "Distance to CBD (km)"
+    },
+    "y": {
+      "field": "avgPrice",
+      "type": "quantitative",
+      "title": "Average Price (AUD)"
+    },
+    "color": {"field": "Type", "type": "nominal", "title": "Property Type"}
+  },
+  "config": {}
+}
